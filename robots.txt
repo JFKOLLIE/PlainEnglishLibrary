@@ -1,0 +1,9 @@
+# Plain English Library
+# Search engines and AI search/answer engines are welcome.
+User-agent: *
+Allow: /
+Disallow: /thank-you/
+Disallow: /downloads/
+Disallow: /api/
+
+Sitemap: https://plainenglishlibrary.com/sitemap.xml
